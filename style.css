@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+section{
+    height: 550px;
+    padding-bottom: 100px;
+}
+
+.header-area{
+    margin-left: 5%;
+    padding: 2%;
+}
+.half-page{
+    width: 40%;
+    float: left;
+}
